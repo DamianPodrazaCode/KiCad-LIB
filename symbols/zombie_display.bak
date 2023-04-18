@@ -424,7 +424,7 @@
         (number "32" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at -11.43 -15.24 0) (length 3.81)
-        (name "RST" (effects (font (size 1.27 1.27))))
+        (name "RESET" (effects (font (size 1.27 1.27))))
         (number "33" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at 12.7 -15.24 180) (length 3.81)
