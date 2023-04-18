@@ -136,7 +136,7 @@
     (property "Reference" "TFT" (at 0 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "3.2 TFT ILI9341 parallel" (at 0 -25.4 0)
+    (property "Value" "2.2_TFT_S6D0164" (at 0 -25.4 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "zombie_display:2.2_TFT_S6D0164" (at 0.254 -27.559 0)
